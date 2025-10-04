@@ -1,7 +1,7 @@
 dvc==3.63.0
-tensorflow==2.20.0
-pandas==2.2.2
-numpy
-scikit-learn==1.7.2
-matplotlib==3.10.6
 dvc-s3==3.2.2
+tensorflow-cpu==2.15.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+matplotlib==3.9.2
